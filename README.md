@@ -57,4 +57,5 @@
 ## 📬 Contact
 
 - **Email:** hemchandraprasad01@gmail.com  
-- **LinkedIn:** [Hemchandra Prasad](https://www.linkedin.com/in/hemchandra-prasad-dotnet)
+- **LinkedIn:** [Hemchandra Prasad](https://www.linkedin.com/in/hemchandra-prasad-dotnet)  
+- **GitHub:** [HemchandraPrasad](https://github.com/HemchandraPrasad)
