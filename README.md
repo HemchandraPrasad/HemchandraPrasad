@@ -11,7 +11,8 @@
 ## 💼 Skills & Technologies
 
 ![OOP](https://img.shields.io/badge/OOP-000000?style=flat-square) 
-![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat-square) 
+![C#](https://img.shields.io/badge/C%23-239120?logo=c-sharp&logoColor=white&style=flat-square)
+![LINQ](https://img.shields.io/badge/LINQ-C%23-007ACC?logo=c-sharp&logoColor=white&style=flat-square)
 ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?logo=javascript&logoColor=black&style=flat-square) 
 ![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?logo=typescript&logoColor=white&style=flat-square) 
 ![HTML5](https://img.shields.io/badge/HTML5-E34F26?logo=html5&logoColor=white&style=flat-square) 
@@ -36,6 +37,7 @@
 ![Serilog](https://img.shields.io/badge/Serilog-512BD4?logoColor=white&style=flat-square)
 ![Log4Net](https://img.shields.io/badge/Log4Net-512BD4?logoColor=white&style=flat-square)
 ![Docker](https://img.shields.io/badge/Docker-2496ED?logo=docker&logoColor=white&style=flat-square)
+
 
 ---
 
