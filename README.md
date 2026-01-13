@@ -45,7 +45,7 @@
 
 | Project Name | Description | Tech Stack | GitHub Link |
 |--------------|-------------|------------|-------------|
-| **Diary App - DearMe** | Personal diary web app with secure login and rich text editor | C#, ASP.NET Core, MVC, SQL Server, Angular | [Repo](https://github.com/HemchandraPrasad/DiaryApp-DearMe) |
+| **Diary App - DearMe** | Personal diary web app with secure login and rich text editor | C#, ASP.NET Core, MVC, SQL Server, Angular | [Repo](https://github.com/HemchandraPrasad/Diary.git) |
 | **E-Commerce Website** | Full stack e-commerce application with product management and payments | C#, ASP.NET Core, MVC, Web API, SQL Server, Angular | [Repo](https://github.com/HemchandraPrasad/ECommerceApp) |
 | **Portfolio Website** | Personal portfolio to showcase projects & skills | HTML, CSS, Bootstrap, JavaScript | [Repo](https://github.com/HemchandraPrasad/Portfolio) |
 | **Task Management App** | Web app for managing daily tasks with CRUD & notifications | C#, ASP.NET Core, MVC, SQL Server, Angular | [Repo](https://github.com/HemchandraPrasad/TaskManager) |
