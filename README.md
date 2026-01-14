@@ -1,8 +1,6 @@
 <div align="center">
 
 <img src="https://readme-typing-svg.herokuapp.com?size=48&duration=6500&color=FFD700&center=true&vCenter=true&width=950&lines=%20🔥+𝓗𝓮𝓶𝓬𝓱𝓪𝓷𝓭𝓻𝓪+𝓟𝓻𝓪𝓼𝓪𝓭+🔥;%20Aspiring+Full+Stack+Developer;%20Passionate+Programmer;%20Always+Learning+New+Things" />
-<h3>BCA Student & Aspiring Full Stack Developer</h3>
-🌐 C#, ASP.NET Core, MVC, Web API & Angular
 
 </div>
 
