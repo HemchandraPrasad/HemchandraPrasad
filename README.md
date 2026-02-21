@@ -23,7 +23,7 @@
   <img alt="jQuery" src="https://img.shields.io/badge/jQuery-0769AD?logo=jquery&logoColor=white&style=for-the-badge"/>
   <img alt="jQuery UI" src="https://img.shields.io/badge/jQuery_UI-0769AD?logo=jquery&logoColor=white&style=for-the-badge"/>
   <img alt="Select2" src="https://img.shields.io/badge/Select2-2E7D32?style=for-the-badge"/>
-  <img alt="DataTables" src="https://img.shields.io/badge/DataTables-1F618D?style=for-the-badge"/>
+  <img alt="DataTables net" src="https://img.shields.io/badge/DataTables-1F618D?style=for-the-badge"/>
   <img alt="Moment.js" src="https://img.shields.io/badge/Moment.js-000000?style=for-the-badge"/>
   <img alt="Angular" src="https://img.shields.io/badge/Angular-DD0031?logo=angular&logoColor=white&style=for-the-badge"/>
 </p>
